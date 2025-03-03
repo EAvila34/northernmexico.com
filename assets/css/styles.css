@@ -1,0 +1,4 @@
+.logo > img {
+	width: fit-content;
+	max-width: 80px;
+}
